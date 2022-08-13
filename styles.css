@@ -1,4 +1,4 @@
-.container{height: 70vh;}
+.container{height: 85vh;}
 .box{
   padding:25px;
   text-align: center;
@@ -9,12 +9,14 @@
 }
 #box2{
   background-color: rgb(30, 146, 107);
+  float: left;
+  height: 350px;
 }
 #box3{
   background-color: rgb(115, 202, 173);
+  height: 350px;
 }
 #box4{
   background-color: rgb(21, 109, 80);
-}
-               
-    
+  height: 250px;
+}    
